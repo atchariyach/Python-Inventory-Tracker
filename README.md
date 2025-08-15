@@ -1,5 +1,3 @@
-# Python-Inventory-Tracker
-A simple desktop application for managing tools and spare parts inventory, built with Python, Tkinter, and SQLite.
 # Python Inventory Tracker
 
 A simple desktop application for managing tools and spare parts inventory, built with Python, Tkinter, and SQLite. This project is designed as a straightforward tool for small workshops, garages, or maintenance departments to keep track of their assets.
