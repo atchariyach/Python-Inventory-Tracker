@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# Database Files
+# Ignore the database file to keep the repository clean and allow
+# each user to start with a fresh, empty database.
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
