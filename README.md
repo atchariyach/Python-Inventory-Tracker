@@ -55,6 +55,4 @@ You need to have Python 3 installed on your system. You can download it from [py
 5.  **To delete an item:** Select an item from the list and click "Delete Selected".
 6.  **To find an item:** Type a keyword into the search bar and click "Search". Click "Show All" to clear the search filter.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
